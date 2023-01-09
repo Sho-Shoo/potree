@@ -1,0 +1,45 @@
+{
+	"version": "2.0",
+	"name": "longpipe_1_2940k_points",
+	"description": "",
+	"points": 2949316,
+	"projection": "",
+	"hierarchy": {
+		"firstChunkSize": 3740, 
+		"stepSize": 4, 
+		"depth": 6
+	},
+	"offset": [-0.19647980000000001, -0.51735622000000003, -2.5484485600000002],
+	"scale": [1e-08, 1e-08, 1e-08],
+	"spacing": 0.019059156250000001,
+	"boundingBox": {
+		"min": [-0.19647980000000001, -0.51735622000000003, -2.5484485600000002], 
+		"max": [2.2430922, 1.9222157800000002, -0.10887656000000012]
+	},
+	"encoding": "DEFAULT",
+	"attributes": [
+		{
+			"name": "position",
+			"description": "",
+			"size": 12,
+			"numElements": 3,
+			"elementSize": 4,
+			"type": "int32",
+			"min": [-0.19647980000000001, -0.51735622000000003, -2.5484485600000002],
+			"max": [0.17534617999999999, 0.16088922, -0.10887656],
+			"scale": [1, 1, 1],
+			"offset": [0, 0, 0]
+		},{
+			"name": "rgb",
+			"description": "",
+			"size": 6,
+			"numElements": 3,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [4864, 4864, 2816],
+			"max": [43776, 37632, 36608],
+			"scale": [1, 1, 1],
+			"offset": [0, 0, 0]
+		}
+	]
+}
